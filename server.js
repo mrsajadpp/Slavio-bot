@@ -91,4 +91,4 @@ Presence: {
     type: "WATCHING"; // PLAYING, WATCHING, LISTENING, STREAMING
   };
 
-client.login('Toke here')
+client.login('OTU0Mjk3ODE2OTcxMzQ1OTYx.YjRFGQ.zN5IwqD0lPhtGAVlsQUYUTr9MKw')
